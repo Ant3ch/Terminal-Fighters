@@ -1,0 +1,29 @@
+{stats joueur1}
+
+nom=1
+
+vie=250
+
+nombre de tour = 2.0
+
+{stats joueur2}
+
+nom=2
+
+vie=250
+
+nombre de tour = 2.0
+
+ 1 missed
+
+ 2 attack with 54 pts
+
+1 has now 196 health
+
+ 1 missed
+
+ 2 attack with 56 pts
+
+1 has now 140 health
+
+>>>>>the player 2 won<<<<<
